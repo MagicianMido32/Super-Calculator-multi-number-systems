@@ -1,5 +1,9 @@
 # Super Calculator multi-number systems 
- A Super Calculator with all mathematical operations in all number systems
+ A Super Calculator with all mathematical operations in all number systems.
+ 
+ I coded it with shunting-yard algorithm for the parentheses ( ) but I can't find that code
+ 
+ 
 
  
              * a number is taken , If it's an integer
@@ -20,3 +24,5 @@
              * then result = Number * Tobase ^n / It's Base ^n where n is the number of digits
              * parts are then combined
              
+
+![GUI](https://raw.githubusercontent.com/MagicianMido32/Super-Calculator-multi-number-systems/master/2222.PNG)
